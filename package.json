@@ -1,0 +1,29 @@
+{
+  "name": "mat-nei",
+  "version": "0.0.1",
+  "description": "nei plugin for mat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuping/mat-nei.git"
+  },
+  "keywords": [
+    "nei",
+    "netease",
+    "mat",
+    "mock"
+  ],
+  "author": "zhuping.zp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuping/mat-nei/issues"
+  },
+  "homepage": "https://github.com/zhuping/mat-nei#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "thunkify": "^2.1.2"
+  }
+}
